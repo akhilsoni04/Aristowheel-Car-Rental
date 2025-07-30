@@ -1,0 +1,118 @@
+- Hero
+Welcome To UrbanRide
+Rent The Best Quality Car's With Us
+We provide top-notch car rental services with affordable pricing and
+flexible options. Whether you're going on a trip or need a ride in
+town — we got you covered.
+
+- How it works
+ 
+How It Works
+Follow these 3 simple steps to book your perfect ride.
+
+const steps = [
+  {
+    id: 1,
+    title: "Choose Your Car",
+    desc: "Browse through our wide range of cars and pick the one that suits your journey.",
+    icon: <FaCarSide className="text-white text-2xl" />,
+  },
+  {
+    id: 2,
+    title: "Fill Booking Form",
+    desc: "Enter your name, email, and rental preferences in our quick booking form.",
+    icon: <FaWpforms className="text-white text-2xl" />,
+  },
+  {
+    id: 3,
+    title: "Start Your Journey",
+    desc: "With everything ready, it's time to enjoy your ride.",
+    icon: <FaCheckCircle className="text-white text-2xl" />,
+  },
+];
+
+
+- About us
+
+At SpeedyRides, we believe in making every journey
+seamless, safe, and enjoyable. Whether it's a quick city trip or a
+long vacation, we provide the perfect car for your needs — fast,
+reliable, and hassle-free.
+
+const points = [
+  {
+    icon: <FaRegSmileBeam className="text-white text-xl" />,
+    title: "Customer Happiness",
+    desc: "Rated 4.9/5 by 10,000+ users for excellent service and support.",
+  },
+  {
+    icon: <FaHandshake className="text-white text-xl" />,
+    title: "Trusted Partnerships",
+    desc: "We collaborate with top car providers to ensure best-in-class experience.",
+  },
+  {
+    icon: <FaGlobeAsia className="text-white text-xl" />,
+    title: "Wider Reach",
+    desc: "Services available in 20+ cities across the country — and growing!",
+  },
+];
+
+- review
+
+What Our Customers Say
+Real reviews from our happy customers who love to ride with us.
+
+const reviews = [
+  {
+    name: "Aman Verma",
+    review:
+      "Absolutely smooth experience! Booking was simple and the car was in perfect condition. Will use again.",
+    image: "src/assets/img/review1.jpg",
+    rating: 5,
+  },
+  {
+    name: "Priya Sharma",
+    review:
+      "Super convenient and affordable! Loved the flexibility and customer service. Highly recommended.",
+    image: "src/assets/img/review2.jpg",
+    rating: 4,
+  },
+  {
+    name: "Rahul Mehta",
+    review:
+      "Great selection of cars and fast support. The ride was smooth and pickup/drop was on time.",
+    image: "src/assets/img/review3.jpg",
+    rating: 5,
+  },
+];
+
+
+- footer 
+
+We make your rides smoother, faster, and more affordable. Your
+trusted car rental partner.
+
+Get In Touch
+ 123 Organic Street, London, UK
+ Email: support@UrbanRide.com
+ Phone: +44 123 456 7890
+
+  @copyright developed by NextAkhil | All rights reserved
+
+
+Akhil Editz :
+- WE are using Clear for user authentication //dashboard.clerk.com/ & //clerk.com/
+- used icons react //react-icons.github.io/
+- install AOS  //michalsnik.github.io/aos/
+- we are Using Hygraph CMS TO manage and deliver our content via GeraphQLCMS (Content Management System).
+
+- Aristowheel 
+A luxury car discovery platform for elite tastes — compare, explore, and admire the world’s finest rides.
+
+- We will use react toast to showig message pops to notify users after ride book //react-hot-toast.com
+
+- we're using React Hook Form to handle user input Efficiently 
+
+- we're using graphql -request to make simple and fast api calls to our Hygraph backend
+
+- Build a Full Stack Car Rental Website with React, Tailwind CSS, GraphQL, Hygraph (No-Voice Tutorial)
