@@ -35,9 +35,9 @@ A sleek and fully responsive **Car Rental Web App** built with **React**, **Tail
 
 ## 📸 Screenshots
 
-![Homepage](./screenshots/homepage.png)
-![Car Listing](./screenshots/listings.png)
-![Booking](./screenshots/booking.png)
+![Homepage](./screenshots/homepage.png)  
+![Car Listing](./screenshots/listings.png)  
+![Booking](./screenshots/booking.png)  
 ![Admin Dashboard](./screenshots/dashboard.png)
 
 ---
@@ -100,6 +100,6 @@ This project is licensed under the MIT License.
 ---
 
 # 📬 Contact
-Akhil Soni
-📧 akhilsoni2611@Gmail.com
+Akhil Soni  
+📧 akhilsoni2611@Gmail.com  
 🔗 [Linkedin](https://www.linkedin.com/in/akhil-soni-633b50246/)
